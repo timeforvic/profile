@@ -2,7 +2,14 @@ body{
 	text-align:center;
 	font-size: 2em;
 	font-family:'Metal Mania', cursive;
-	color: black;
+	color: blue;
 	background-color:#42f4b3;
+	background-image: url("index.png");
+	background-position: center;
+	background-size: contain;
 
+}
+
+li {
+	display: inline;
 }
